@@ -1,3 +1,2 @@
-# Crypto-Dashboard.github.io
-Crypto Dashboard
+# Crypto-Dashboard
 Not working, APIs inactive.
